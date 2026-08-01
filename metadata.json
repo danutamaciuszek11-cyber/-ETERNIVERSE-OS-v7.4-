@@ -1,0 +1,6 @@
+{
+  "name": "SVG Path Minifier & Optimizer",
+  "description": "High-precision SVG path data minification and vector optimization engine with real-time visual inspection, delta analysis, and cybernetic HUD controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
